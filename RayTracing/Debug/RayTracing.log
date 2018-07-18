@@ -1,0 +1,41 @@
+﻿Build started 2018/1/25 19:10:35.
+     1>Project "D:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\RayTracing\RayTracing\RayTracing.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\tsinghua\code\Graphics_lib\Eigen /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\object.h(541): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\object.h(545): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\photonmapper.h(364): warning C4244: 'argument' : conversion from 'double' to 'uchar', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\photonmapper.h(367): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(54): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(55): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(68): warning C4244: 'argument' : conversion from 'double' to 'uchar', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(84): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(85): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(157): warning C4244: 'argument' : conversion from 'double' to 'uchar', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(162): warning C4244: 'argument' : conversion from 'double' to 'uchar', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(173): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(174): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(192): warning C4244: 'argument' : conversion from 'double' to 'uchar', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(202): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(203): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(273): warning C4244: 'argument' : conversion from 'double' to 'uchar', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(292): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(293): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(305): warning C4244: 'argument' : conversion from 'double' to 'uchar', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(316): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(317): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(389): warning C4244: 'argument' : conversion from 'double' to 'uchar', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(394): warning C4244: 'argument' : conversion from 'double' to 'uchar', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(426): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(427): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\camera.h(441): warning C4244: 'argument' : conversion from 'double' to 'uchar', possible loss of data
+     1>d:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\raytracing\raytracing\bezier.h(128): warning C4715: 'CBezierSurface::Point3D' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\RayTracing\Debug\RayTracing.exe" /INCREMENTAL /NOLOGO opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_gpu249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_legacy249d.lib opencv_ml249d.lib opencv_nonfree249d.lib opencv_objdetect249d.lib opencv_photo249d.lib opencv_stitching249d.lib opencv_ts249d.lib opencv_video249d.lib opencv_videostab249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\RayTracing\Debug\RayTracing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\RayTracing\Debug\RayTracing.lib" /MACHINE:X86 Debug\main.obj
+         RayTracing.vcxproj -> D:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\RayTracing\Debug\RayTracing.exe
+     1>Done Building Project "D:\tsinghua\学习\21_2017秋\高等计算机图形学\光线跟踪大作业\RayTracing\RayTracing\RayTracing.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.06
