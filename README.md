@@ -1,5 +1,6 @@
 # RayTracing
 Ray Tracing and Progressive Photon Mapping. <br>
+Course project for Advanced Computer Graphics <br>
 <br>
 # Some results <br>
 Modeling with rotational surfaces of Bezier curvers, rendered with Progressive Photon Mapping. <br>
